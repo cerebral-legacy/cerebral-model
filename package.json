@@ -1,6 +1,6 @@
 {
   "name": "cerebral-model",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Default model package for Cerebral",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/cerebral/cerebral-model#readme",
   "dependencies": {
-    "state-tree": "^0.3.0"
+    "state-tree": "^0.3.1"
   }
 }
